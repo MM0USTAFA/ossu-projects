@@ -11,8 +11,8 @@ OSSU Computer Science curriculum projects for each course in the curriculum.
 ## Introduction to Computer Science
 Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
-StalkHub | Stalk Github beautifully | [Aman Roy](https://github.com/aman-roy) | [StalkHub](https://github.com/aman-roy/StalkHub)
-Webliza | ELIZA in python with web interface | [Vipin Kumar](https://github.com/VipinindKumar) | [Webliza](https://github.com/VipinindKumar/Webliza)
+[//]: StalkHub | Stalk Github beautifully | [Aman Roy](https://github.com/aman-roy) | [StalkHub](https://github.com/aman-roy/StalkHub)
+[//]: Webliza | ELIZA in python with web interface | [Vipin Kumar](https://github.com/VipinindKumar) | [Webliza](https://github.com/VipinindKumar/Webliza)
 
 
 ## Programming
